@@ -6,4 +6,4 @@ Except Data Structures, contains programs such as:
 - Bracket Check App
 - Car Queue Management  etc.
 
-implemeted with data structures.
+,implemeted with data structures.
